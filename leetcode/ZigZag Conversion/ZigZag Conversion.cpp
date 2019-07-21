@@ -4,6 +4,7 @@ public:
         if(numRows==1)
             return s;
         string str;
+        //the length of a cycle
         const int len=2*numRows-2;
         int cur,inc;
         for(int i=0;i<numRows;++i){
