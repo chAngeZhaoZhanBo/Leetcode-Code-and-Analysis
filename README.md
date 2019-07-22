@@ -1,5 +1,5 @@
 # Leetcode-Code-and-Proof
-用于记录刷leetcode过程中的代码与必要的证明
+用于记录刷leetcode过程中的代码与必要的解析
 
 代码置于leetcode文件夹下的以题目名称命名的文件夹中，解析（如果有的话）位于同文件夹中，为md格式
 
