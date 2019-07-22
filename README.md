@@ -6,4 +6,5 @@
 |#|Description|Solution|Has Analyse?|
 |--|-----------|--------|----------|
 |1|[TwoSum](https://leetcode.com/problems/two-sum/)|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/Two%20Sum)|No|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/Add%20Two%20Numbers)|No|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/ZigZag%20Conversion)|Yes|
