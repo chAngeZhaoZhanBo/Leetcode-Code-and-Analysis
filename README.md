@@ -15,3 +15,4 @@ leetcode官方给出Solution的题目将不给出解析（除非使用的方法�
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/ZigZag%20Conversion)|No|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/Reverse%20Integer)|No|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/String%20to%20Integer%20(atoi))|Yes|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analyse/tree/master/leetcode/Palindrome%20Number)|No|
