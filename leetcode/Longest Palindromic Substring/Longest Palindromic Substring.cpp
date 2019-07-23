@@ -1,3 +1,33 @@
+/**
+ *本文件中包含了空间复杂度为O(n)的动态规划算法实现
+ *以及Manacher算法的实现
+ */
+
+
+
+//以下为动态规划算法实现
+class Solution {
+public:
+    string longestPalindrome(string s) {
+        if (s.empty()) return "";
+        int n = s.size(), left = 0, len = 1;
+        bool dp[n];
+        for(int j = 0; j < n; ++j){
+            dp[j]=true;
+            for(int i = 0; i < j; ++i){
+                dp[i] = dp[i+1] && (s[i] == s[j]);
+                if(dp[i] && len < j - i + 1){
+                    len = j - i + 1;
+                    left = i;
+                }
+            }
+        }
+        return s.substr(left, len);
+    }
+};
+
+
+//以下为Manacher算法实现
 class Solution {
 public:
     string longestPalindrome(string s) {
