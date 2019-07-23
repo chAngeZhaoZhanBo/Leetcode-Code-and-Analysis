@@ -11,7 +11,7 @@
 
 P(i,i)=true
 
-P(i,j)=(P(i+1,j-1) \quad and \quad S_i==S_j)   	当 j>i+1 时
+P(i,j)=(P(i+1,j-1)  and  S_i==S_j)   	当 j>i+1 时
 
 P(i,j)=(S_i==S_{i+1})      										当j=i+1 时
 
