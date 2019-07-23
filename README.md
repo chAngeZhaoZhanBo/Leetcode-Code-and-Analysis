@@ -13,3 +13,4 @@ leetcode官方给出Solution的题目将不给出解析（除非使用的方法�
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|Hard|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/Median%20of%20Two%20Sorted%20Arrays)|No|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/Longest%20Palindromic%20Substring)|Yes|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/ZigZag%20Conversion)|No|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/Reverse%20Integer)|No|
