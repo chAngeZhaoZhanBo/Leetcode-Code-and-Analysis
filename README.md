@@ -19,3 +19,5 @@ leetcode官方给出Solution的题目将不给出解析（除非使用的方法�
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|Hard|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analyse/tree/master/leetcode/Regular%20Expression%20Matching)|No|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analyse/tree/master/leetcode/Container%20With%20Most%20Water)|No|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analyse/tree/master/leetcode/Integer%20to%20Roman)|No|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Roman%20to%20Integer)|No|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Longest%20Common%20Prefix)|No|
