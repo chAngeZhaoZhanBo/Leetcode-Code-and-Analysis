@@ -21,3 +21,5 @@ leetcode官方给出Solution的题目将不给出解析（除非使用的方法�
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analyse/tree/master/leetcode/Integer%20to%20Roman)|No|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Roman%20to%20Integer)|No|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Longest%20Common%20Prefix)|No|
+|15|[3Sum](https://leetcode.com/problems/3sum/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/3Sum)|Yes|
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/3Sum%20Closest)|Yes|
