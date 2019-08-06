@@ -25,3 +25,7 @@ leetcode官方给出Solution的题目将不给出解析（除非使用的方法�
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/3Sum%20Closest)|Yes|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Letter%20Combinations%20of%20a%20Phone%20Number)|No|
 |18|[4Sum](https://leetcode.com/problems/4sum/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/4Sum)|No|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Remove%20Nth%20Node%20From%20End%20of%20List)|No|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Valid%20Parentheses)|No|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Merge%20Two%20Sorted%20Lists)|No|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Generate%20Parentheses)|No|
