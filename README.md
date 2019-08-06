@@ -5,7 +5,7 @@
 
 leetcode官方给出Solution的题目将不给出解析（除非使用的方法与官方Solution有明显区别），解法过于简单的题目也将不给出解析
 
-|#|Description|Difficulty|Solution|Has Analyse?|
+|#|Description|Difficulty|Solution|Has Analysis?|
 |--|-----------|---------|--------|----------|
 |1|[TwoSum](https://leetcode.com/problems/two-sum/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/Two%20Sum)|No|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Proof/tree/master/leetcode/Add%20Two%20Numbers)|No|
