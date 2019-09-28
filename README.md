@@ -29,3 +29,5 @@ leetcode官方给出Solution的题目将不给出解析（除非使用的方法�
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Valid%20Parentheses)|No|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|Easy|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Merge%20Two%20Sorted%20Lists)|No|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Generate%20Parentheses)|No|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|Hard|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Merge%20k%20Sorted%20Lists)|No|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|Medium|[cpp](https://github.com/chAngeZhaoZhanBo/Leetcode-Code-and-Analysis/tree/master/leetcode/Swap%20Nodes%20in%20Pairs)|Yes|
